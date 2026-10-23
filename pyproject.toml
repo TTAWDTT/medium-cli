@@ -2,11 +2,26 @@
 name = "medium-cli"
 version = "0.1.0"
 description = "聚合各平台社交媒体的统一命令行工具 -- 知乎/小红书/B站/微博/豆瓣/V2EX/X/Reddit/Telegram/Discord/公众号/BOSS直聘"
+readme = "README.md"
 requires-python = ">=3.10"
+license = "MIT"
+authors = [{ name = "Zhen Luo", email = "luoz061114@gmail.com" }]
+keywords = ["cli", "social-media", "zhihu", "xiaohongshu", "bilibili", "weibo", "douban", "twitter", "reddit", "telegram", "discord", "markdown"]
+classifiers = [
+    "Environment :: Console",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Internet :: WWW/HTTP",
+]
 dependencies = [
     "typer>=0.12",
     "rich>=13.7",
 ]
+
+[project.urls]
+Homepage = "https://github.com/TTAWDTT/medium-cli"
+Source = "https://github.com/TTAWDTT/medium-cli"
 
 [project.scripts]
 medium-cli = "medium_cli.cli:app"

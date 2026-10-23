@@ -27,13 +27,21 @@ medium-cli 是**命令派发器**：各平台已有成熟的专用 CLI（见下�
 
 ## 安装
 
+已发布到 PyPI：
+
 ```bash
 uv tool install medium-cli            # 或 pipx install medium-cli
-medium-cli install --all              # 安装缺失的上游 CLI
-medium-cli login -p xhs -p weibo      # 逐个登录（二维码流程透传终端）
 ```
 
-上游 CLI 都是独立工具，`medium-cli doctor` 会提示每条缺失平台的一键安装命令。
+> medium-cli 本身是"调度器"，不含 12 个平台的上游 CLI。装好后先补齐上游、再登录：
+
+```bash
+medium-cli install --all              # 补装缺失的上游 CLI（缺哪个装哪个）
+medium-cli status                     # 哪些平台可用 / 需登录 / 未安装
+medium-cli login -p xhs -p weibo      # 需要登录的平台逐个登录（二维码透传终端）
+```
+
+从最新源码安装：`uv tool install git+https://github.com/TTAWDTT/medium-cli`
 
 ## 命令一览
 
