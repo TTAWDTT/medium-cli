@@ -1,0 +1,645 @@
+{
+ "paging": {
+  "is_end": false,
+  "next": "https://api.zhihu.com/search_v3?advert_count=0&correction=1&filter_fields=lc_idx&gk_version=gz-gaokao&lc_idx=0&limit=3&offset=3&q=rust&search_hash_id=0762b98306271b561b9fa12e723b0248&search_source=Normal&show_all_topics=0&t=general&vertical_info=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C2%2C0%2C0"
+ },
+ "data": [
+  {
+   "type": "hot_timing",
+   "highlight": null,
+   "object": {
+    "title": "",
+    "type": "hot_timing",
+    "image_url": "",
+    "redirect_url": "",
+    "background_color": "",
+    "campaign_type": "normal",
+    "icon_title": "最新讨论",
+    "expert": "",
+    "has_more": true,
+    "content_items": [
+     {
+      "object": {
+       "id": "2096632519076725884",
+       "title": "<em>Rust</em>真的是最适合AI时代的语言吗？",
+       "description": "按照LLM的原理来说，AI能力越来越强就越不可能写出本身有问题的代码才对吧，那么针对一个产品应该是支持hotfix可以快速迭代的属性才更加适合？如果AI能力足够强那么本身就不会写出来内存不安全的代码，那么不是更灵活更接近现代C/CPP的语言更强大吗",
+       "url": "https://api.zhihu.com/questions/2096632519076725884",
+       "type": "question",
+       "follower_count": 6,
+       "comment_count": 0,
+       "answer_count": 4,
+       "visits_count": 923,
+       "updated_time": 1792656211,
+       "relationship": {
+        "is_following": false
+       },
+       "is_anonymous": false,
+       "thumbnail_info": {
+        "count": 0,
+        "thumbnails": [],
+        "type": "thumbnail_info",
+        "total_count": 0
+       },
+       "attached_info_bytes": "OuMBCgtwbGFjZWhvbGRlchIgMDc2MmI5ODMwNjI3MWI1NjFiOWZhMTJlNzIzYjAyNDgYAyIJMTIxNzM2MDI4KhMyMDk2NjMyNTE5MDc2NzI1ODg0SgRydXN0UABYAWABagRydXN0cASAAeTj7uaJ0JcDmAEAoAEAqAEAsAEw0AGShufWBuABAOgBBoACAbgCAOICB2Rpc2N1c3OKAwCSAwEwmgMAogMAqgMAiAQB3QQAAAAA4AQA+gQAggUgMDc2MmI5ODMwNjI3MWI1NjFiOWZhMTJlNzIzYjAyNDiKBQblhbbku5Y="
+      },
+      "type": "question",
+      "index": 2,
+      "sub_contents": [
+       {
+        "object": {
+         "id": "2096916898378261669",
+         "type": "answer",
+         "excerpt": "AI本身并不能独立完成写代码这件事 需要编译器和测试环境给反馈；编译器反馈越详细 越具体 AI就越不容易犯错 或者越容易改正错误。从这一点上说 Rust是适合AI的。",
+         "url": "https://api.zhihu.com/answers/2096916898378261669",
+         "voteup_count": 0,
+         "comment_count": 0,
+         "favorites_count": 0,
+         "created_time": 1792723947,
+         "updated_time": 1792723947,
+         "content": "<p data-pid=\"opfkhUiG\">AI本身并不能独立完成写代码这件事 需要编译器和测试环境给反馈；编译器反馈越详细 越具体 AI就越不容易犯错 或者越容易改正错误。从这一点上说 Rust是适合AI的。</p>",
+         "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+         },
+         "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+         },
+         "question": {
+          "id": "2096632519076725884",
+          "type": "question",
+          "name": "<em>Rust</em>真的是最适合AI时代的语言吗？",
+          "url": "https://api.zhihu.com/questions/2096632519076725884",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+         },
+         "author": {
+          "id": "4fb90a891a2a2a37c8ac3e373b81ed20",
+          "url_token": "jinzhenkun",
+          "name": "金振坤",
+          "headline": "",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/4fb90a891a2a2a37c8ac3e373b81ed20",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/v2-4e4f5a9bf9ef320781dfd78374a38e38_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 13916,
+          "follower_count": 49,
+          "badge_v2": {
+           "title": "",
+           "merged_badges": [],
+           "detail_badges": [],
+           "icon": "",
+           "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null,
+          "topic_map": {},
+          "verify_bayes": ""
+         },
+         "is_anonymous": false,
+         "is_zhi_plus": false,
+         "is_zhi_plus_content": false,
+         "extra": "",
+         "health_tag": "",
+         "answer_type": "normal",
+         "sub_content_type": "",
+         "settings": {
+          "table_of_contents": {
+           "enabled": false
+          }
+         },
+         "attached_info_bytes": "OoMCCgtwbGFjZWhvbGRlchIgMDc2MmI5ODMwNjI3MWI1NjFiOWZhMTJlNzIzYjAyNDgYBCIJODAyMjcyMTgyKhMyMDk2OTE2ODk4Mzc4MjYxNjY5MgkxMjE3MzYwMjg6EzIwOTY2MzI1MTkwNzY3MjU4ODRKBHJ1c3RQAFgBYAFqBHJ1c3RwBIAB5OPu5onQlwOYAQCgAQCoAQGwATDQAeuX69YG2AEA4AEAgAIBuAIA4gIHZGlzY3Vzc4oDAJIDATCaAwCiAwCqAwCIBAHdBAAAAADgBAD6BACCBSAwNzYyYjk4MzA2MjcxYjU2MWI5ZmExMmU3MjNiMDI0OIoFBuWFtuS7lg==",
+         "biz_encoded_params": "sw%3Drust",
+         "answer_count": 4,
+         "visits_count": 923,
+         "description": "<p>按照LLM的原理来说，AI能力越来越强就越不可能写出本身有问题的代码才对吧，那么针对一个产品应该是支持hotfix可以快速迭代的属性才更加适合？</p><p>如果AI能力足够强那么本身就不会写出来内存不安全的代码，那么不是更灵活更接近现代C/CPP的语言更强大吗</p><p></p>",
+         "title": "Rust真的是最适合AI时代的语言吗？",
+         "native": 0
+        },
+        "type": "answer",
+        "index": 0
+       }
+      ]
+     },
+     {
+      "object": {
+       "id": "2094391698315129651",
+       "title": "<em>Rust</em>重写开源版Word来了！兼容DOCX，还能让AI直接编辑文档",
+       "type": "article",
+       "url": "https://api.zhihu.com/articles/2094391698315129651",
+       "excerpt": "WordCraft 是一款由 ArtCraft 团队推出的开源文字处理软件，目标是以纯 <em>Rust</em> 重新实现 Microsoft Word 的核心体验，提供熟悉的功能区、样式管理...",
+       "voteup_count": 26,
+       "comment_count": 14,
+       "zfav_count": 0,
+       "created_time": 1792542663,
+       "updated_time": 1792542663,
+       "content": "<p data-pid=\"SjXBTQfK\"><a href=\"https://link.zhihu.com/?target=https%3A//getartcraft.com/apps/wordcraft\" data-draft-type=\"text-link\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">WordCraft </a>是一款由 ArtCraft 团队推出的开源文字处理软件，目标是以纯 Rust 重新实现 Microsoft Word 的核心体验，提供熟悉的功能区、样式管理、表格编辑、修订跟踪、参考文献、邮件合并等能力，同时支持桌面端和 WebAssembly 浏览器运行。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-a0872d4c3d3879b439324ad570bd063a_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1600\" data-rawheight=\"1000\" data-original-token=\"v2-785b185a286878f26e882f89290d620a\" class=\"origin_image zh-lightbox-thumb\" width=\"1600\" data-original=\"https://pic3.zhimg.com/v2-a0872d4c3d3879b439324ad570bd063a_r.jpg\"/></figure><p data-pid=\"nPTyztC0\">WordCraft 项目依据公开标准而非基于微软源码实现，遵循 MIT 或者 Apache 2.0 开源协议，代码托管在 GitHub：</p><p data-pid=\"jnT0vNAG\"><a href=\"https://link.zhihu.com/?target=https%3A//github.com/storytold/wordcraft\" data-draft-type=\"text-link\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">https://github.com/storytold/wordcraft </a></p><blockquote data-pid=\"HfVWzr5Z\">WordCraft 目前仍处于快速迭代开发阶段，实现了大部分功能，但还没有达到完全替代 Microsoft Word 的成熟状态。</blockquote><h3>功能特性</h3><ul><li data-pid=\"QGMXkYVe\"><b>跨平台支持</b>：WordCraft 提供 Windows、macOS、Linux、浏览器（WebAssembly）等多种平台的原生应用。</li><li data-pid=\"0SC9qbI7\"><b>熟悉的编辑体验</b>：WordCraft 致力于复刻用户熟悉的 Microsoft Word 工作流，提供经典的功能区（Ribbon）、样式库、导航窗格、表格编辑、列表编号以及常用快捷键操作，让用户几乎无需重新学习即可上手。</li></ul><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-1e58eb8c403f45c7f026aa0154e0ee37_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1920\" data-rawheight=\"1128\" data-original-token=\"v2-501902a0e2643e647fa729854e9f6cfd\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://picx.zhimg.com/v2-1e58eb8c403f45c7f026aa0154e0ee37_r.jpg\"/></figure><p data-pid=\"Kdr8n0mG\"><b>原生 DOCX 支持</b>：WordCraft 将 DOCX 作为核心文档格式进行设计，能够原生打开、编辑和保存 DOCX 文件，而不是将其作为兼容性导入导出格式处理。同时还支持 ODT、RTF、HTML、Markdown 和 TXT 等多种格式，并且可以导出高质量 PDF。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-371fa456dcb8b4b15a7264a2466f3ad7_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1920\" data-rawheight=\"1128\" data-original-token=\"v2-a203961951f86397c59416bcb007d6c3\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic4.zhimg.com/v2-371fa456dcb8b4b15a7264a2466f3ad7_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><ul><li data-pid=\"2qsT5LM8\"><b>高性能排版引擎</b>：基于自主研发文档排版引擎，通过布局缓存、增量重排和按需渲染等技术，大幅降低大型文档的排版开销。官方数据显示，在大约 188 页的文档中，重新排版仅需约 1.4 毫秒，能够实现流畅的编辑、滚动和视图切换体验。</li><li data-pid=\"mEQDbmv2\"><b>修订与审阅</b>：WordCraft 内置完善的文档审阅功能，支持修订跟踪、批注评论、接受或拒绝修改以及文档比较等能力。同时，它还集成了离线拼写检查和语法检查功能，可在写作过程中实时发现并纠正问题。</li></ul><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-bba37e82f4801bd0dbb4798ba6fc8bad_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2880\" data-rawheight=\"1800\" data-original-token=\"v2-8fb83b38a4a4bfccceee90325a22d787\" class=\"origin_image zh-lightbox-thumb\" width=\"2880\" data-original=\"https://pic4.zhimg.com/v2-bba37e82f4801bd0dbb4798ba6fc8bad_r.jpg\"/></figure><ul><li data-pid=\"4nN3cjUB\"><b>学术写作支持</b>：WordCraft 面向论文、研究报告和专业出版场景提供了丰富的学术写作功能，支持自动生成目录（TOC）、脚注、尾注、图表题注、索引以及参考文献管理，并且内置 APA、MLA、Chicago、IEEE 等主流引用格式，帮助用户规范地组织和排版学术内容。</li></ul><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-4843550700f755fd18c7969699ea37c3_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1600\" data-rawheight=\"1000\" data-original-token=\"v2-a073b1e502b675214b528c8b7f476428\" class=\"origin_image zh-lightbox-thumb\" width=\"1600\" data-original=\"https://picx.zhimg.com/v2-4843550700f755fd18c7969699ea37c3_r.jpg\"/></figure><ul><li data-pid=\"zqFz489Z\"><b>AI Agent 集成</b>：WordCraft 从设计之初就充分考虑了 AI 自动化场景，将文档操作抽象为数百个可编程命令，并且通过图形界面（GUI）、命令行（CLI）、JSON 控制通道以及 MCP 服务器统一调用。</li></ul><div class=\"highlight\"><pre><code class=\"language-bash\">claude mcp add wordcraft -- wordcraft-cli mcp                  <span class=\"c1\"># headless documents</span>\n<span class=\"c1\"># confine the agent to folders: wordcraft-cli mcp --automation-read-root DIR --automation-write-root DIR</span>\nwordcraft --control <span class=\"m\">7981</span> <span class=\"p\">&amp;</span>                                     <span class=\"c1\"># or drive the running app…</span>\nclaude mcp add wordcraft-app -- wordcraft-cli mcp --connect 127.0.0.1:7981</code></pre></div><p data-pid=\"RfUxzvkX\">这意味着 Claude Code、Cursor、Codex 等 AI 智能体不仅能够读取文档内容，还可以直接执行打开文档、修改格式、插入内容、批量转换和自动生成文档等操作。</p><h3>下载安装</h3><p data-pid=\"gTAbrkkv\">ArtCraft 官方提供了两种安装方法。第一种是通过 ArtCraft Launcher 进行安装：</p><p data-pid=\"dXvEQDDs\"><a href=\"https://link.zhihu.com/?target=https%3A//getartcraft.com/apps/wordcraft%23get-it\" data-draft-type=\"text-link\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">https://getartcraft.com/apps/wordcraft#get-it </a></p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-fb51d10f63a6d03873f115fc8ff82642_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1908\" data-rawheight=\"1002\" data-original-token=\"v2-d3beff1410e4fe683d72cbb4dd7a07ea\" class=\"origin_image zh-lightbox-thumb\" width=\"1908\" data-original=\"https://pica.zhimg.com/v2-fb51d10f63a6d03873f115fc8ff82642_r.jpg\"/></figure><p data-pid=\"2jH677vE\">ArtCraft Launcher 不仅可以用于安装管理 WordCraft，也可以支持其他 ArtCraft 系列软件。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-0f50f43fbbbe4e123259179a95c5ac68_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1920\" data-rawheight=\"1128\" data-qrcode-action=\"none\" data-original-token=\"v2-4ed55925302ab8e93eeaf7bc2f04adea\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic3.zhimg.com/v2-0f50f43fbbbe4e123259179a95c5ac68_r.jpg\"/></figure><p data-pid=\"PQ2-UKY6\">第二种方式是直接下载 WordCraft 安装包，安装完成之后运行 wordcraft.exe（Windows）：</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-06df9b78bb20e59b4528a4bd4c396c63_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1920\" data-rawheight=\"1128\" data-original-token=\"v2-921484d5463f60e6138f675f4eb4b68e\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic4.zhimg.com/v2-06df9b78bb20e59b4528a4bd4c396c63_r.jpg\"/></figure>",
+       "thumbnail_info": {
+        "count": 7,
+        "thumbnails": [
+         {
+          "data_url": "",
+          "url": "https://pic1.zhimg.com/80/v2-785b185a286878f26e882f89290d620a_qhd.jpg?source=4e949a73",
+          "type": "image",
+          "width": 1600,
+          "height": 1000
+         },
+         {
+          "data_url": "",
+          "url": "https://picx.zhimg.com/80/v2-501902a0e2643e647fa729854e9f6cfd_qhd.jpg?source=4e949a73",
+          "type": "image",
+          "width": 1920,
+          "height": 1128
+         },
+         {
+          "data_url": "",
+          "url": "https://pic1.zhimg.com/80/v2-a203961951f86397c59416bcb007d6c3_qhd.jpg?source=4e949a73",
+          "type": "image",
+          "width": 1920,
+          "height": 1128
+         },
+         {
+          "data_url": "",
+          "url": "https://picx.zhimg.com/80/v2-8fb83b38a4a4bfccceee90325a22d787_qhd.jpg?source=4e949a73",
+          "type": "image",
+          "width": 2880,
+          "height": 1800
+         },
+         {
+          "data_url": "",
+          "url": "https://pic1.zhimg.com/80/v2-a073b1e502b675214b528c8b7f476428_qhd.jpg?source=4e949a73",
+          "type": "image",
+          "width": 1600,
+          "height": 1000
+         },
+         {
+          "data_url": "",
+          "url": "https://picx.zhimg.com/80/v2-d3beff1410e4fe683d72cbb4dd7a07ea_qhd.jpg?source=4e949a73",
+          "type": "image",
+          "width": 1908,
+          "height": 1002
+         },
+         {
+          "data_url": "",
+          "url": "https://pica.zhimg.com/80/v2-921484d5463f60e6138f675f4eb4b68e_qhd.jpg?source=4e949a73",
+          "type": "image",
+          "width": 1920,
+          "height": 1128
+         }
+        ],
+        "type": "thumbnail_info",
+        "total_count": 7
+       },
+       "author": {
+        "id": "1a41feef52d42c4fd084f2cea964ac5a",
+        "url_token": "dongxuyang85",
+        "name": "不剪发的Tony老师",
+        "headline": "《SQL编程思想》作者，PostgreSQL ACE。",
+        "gender": 1,
+        "is_followed": false,
+        "is_following": false,
+        "user_type": "people",
+        "url": "https://api.zhihu.com/people/1a41feef52d42c4fd084f2cea964ac5a",
+        "type": "people",
+        "avatar_url": "https://pic1.zhimg.com/50/v2-f7cbda650ab6a3e549cb88f9f0fafc9e_l.jpg?source=4e949a73",
+        "badge": [],
+        "authority_info": null,
+        "voteup_count": 7650,
+        "follower_count": 12561,
+        "badge_v2": {
+         "title": "",
+         "merged_badges": [],
+         "detail_badges": [],
+         "icon": "",
+         "night_icon": ""
+        },
+        "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+        "topic_bayes_map": null,
+        "topic_map": {},
+        "verify_bayes": ""
+       },
+       "voting": 0,
+       "relationship": {
+        "is_voted": false,
+        "is_author": false,
+        "following_upvoter": [],
+        "following_upvoter_count": 0,
+        "following_collect": [],
+        "following_collect_count": 0,
+        "high_level_creator": [],
+        "high_level_creator_count": 0
+       },
+       "flag": {
+        "flag_type": "author_follower",
+        "flag_text": "超过1.26万人关注"
+       },
+       "is_zhi_plus": false,
+       "is_zhi_plus_content": false,
+       "extra": "",
+       "settings": {
+        "table_of_contents": {
+         "enabled": true
+        }
+       },
+       "attached_info_bytes": "OuYBCgtwbGFjZWhvbGRlchIgMDc2MmI5ODMwNjI3MWI1NjFiOWZhMTJlNzIzYjAyNDgYByIJMjg1NTQ2NTk1KhMyMDk0MzkxNjk4MzE1MTI5NjUxSgRydXN0UABYAWABagRydXN0cASAAeTj7uaJ0JcDmAEAoAEAqAECsAEw0AHHj+DWBtgBGuABDoACAbgCAOICB2Rpc2N1c3P4AgGKAwCSAwEwmgMAogMAqgMAiAQB3QQAAAAA4AQA+gQAggUgMDc2MmI5ODMwNjI3MWI1NjFiOWZhMTJlNzIzYjAyNDiKBQblhbbku5Y=",
+       "article_type": "normal",
+       "subtype": "normal",
+       "biz_encoded_params": "sw%3Drust",
+       "native": 0
+      },
+      "type": "article",
+      "index": 4
+     }
+    ],
+    "questions_pv_count": 923,
+    "attached_info_bytes": "OoUBEiAwNzYyYjk4MzA2MjcxYjU2MWI5ZmExMmU3MjNiMDI0OEoEcnVzdFAAWAFgAWoEcnVzdHAEgAHk4+7midCXA4ACAbgCAIoDAJIDATCaAwCiAwDgBAD6BACCBSAwNzYyYjk4MzA2MjcxYjU2MWI5ZmExMmU3MjNiMDI0OIoFBuWFtuS7lg=="
+   },
+   "hit_labels": null,
+   "index": 0
+  },
+  {
+   "type": "ai_zhida",
+   "highlight": null,
+   "object": {
+    "is_strong_style": false,
+    "type": "ai_zhida",
+    "attached_info_bytes": "Oo4BEiAwNzYyYjk4MzA2MjcxYjU2MWI5ZmExMmU3MjNiMDI0OEoEcnVzdFAAWAFgAWoEcnVzdHAEgAHk4+7midCXA6ABAbABV4ACAbgCAIoDAJIDATCaAwCiAwCIBAHgBAD6BACCBSAwNzYyYjk4MzA2MjcxYjU2MWI5ZmExMmU3MjNiMDI0OIoFBuWFtuS7lg==",
+    "query": "rust"
+   },
+   "hit_labels": null,
+   "index": 1
+  },
+  {
+   "type": "search_result",
+   "highlight": {
+    "description": "C 重写成 <em>Rust</em>，而是逐步支持利用 Rust 开发部分内核组件。 四、我觉得 <em>Rust</em> 更像是新时代的",
+    "title": "<em>Rust</em>是不是就相当于新时代的C语言？"
+   },
+   "object": {
+    "id": "2094853669183403148",
+    "type": "answer",
+    "excerpt": "C 重写成 <em>Rust</em>，而是逐步支持利用 Rust 开发部分内核组件。 四、我觉得 <em>Rust</em> 更像是新时代的",
+    "url": "https://api.zhihu.com/answers/2094853669183403148",
+    "voteup_count": 31,
+    "comment_count": 2,
+    "favorites_count": 35,
+    "created_time": 1792232035,
+    "updated_time": 1792232035,
+    "content": "<p data-pid=\"Se2PTymf\">可以这么理解。Rust 在很大程度上就是按照“新时代的 C 语言”这个方向设计的，但它并不是 C 语言的升级版，而是试图重新解决 C 语言所面临的一些根本问题。</p><p data-pid=\"oHgzNNqK\">如果用一句话概括：</p><p data-pid=\"vDYBsoVT\">C 语言追求的是：让程序员拥有尽可能大的自由。</p><p data-pid=\"pHjIh-mO\">Rust 追求的是：在保留底层控制能力的同时，尽可能防止程序员犯下危险的错误。</p><p data-pid=\"7LrM_DaV\">这两种语言有着相似的应用目标，但设计哲学有很大不同。</p><h3>一、Rust 与 C 语言确实有很多共同点</h3><table data-draft-node=\"block\" data-draft-type=\"table\" data-size=\"normal\" data-row-style=\"normal\"><tbody><tr><th>特性</th><th>C</th><th>Rust</th></tr><tr><td>编译为本地机器码</td><td>是</td><td>是</td></tr><tr><td>可以直接操作内存</td><td>是</td><td>是（部分需要 unsafe）</td></tr><tr><td>可以开发操作系统</td><td>是</td><td>是</td></tr><tr><td>可以开发嵌入式程序</td><td>是</td><td>是</td></tr><tr><td>可以不依赖垃圾回收器</td><td>是</td><td>是</td></tr><tr><td>适合编写底层软件</td><td>是</td><td>是</td></tr><tr><td>内存安全性</td><td>主要依赖程序员</td><td>编译器提供大量保证</td></tr><tr><td>学习难度</td><td>语法较简单</td><td>类型与所有权规则较复杂</td></tr></tbody></table><p data-pid=\"5cF9ABaF\">两者都不要求程序运行时必须有一个庞大的虚拟机，也不依赖 Java、C# 那样的托管式垃圾回收机制。</p><p data-pid=\"g2WegDq0\">因此，Rust 确实可以进入过去主要由 C 和 C++ 占据的领域。</p><h3>二、Rust 最重要的创新，是改变了内存管理的方式</h3><p data-pid=\"RUoDnJJZ\">来看一个 C 语言程序：</p><div class=\"highlight\"><pre><div class=\"highlight\"><pre><code class=\"language-text\">int *p = malloc(sizeof(int));\n*p = 100;\n\nfree(p);\n\nprintf(&#34;%d&#34;, *p);</code></pre></div></pre></div><p data-pid=\"iNaS5U-q\">这段代码存在明显问题：内存已经释放，程序却还在访问它。</p><p data-pid=\"7AnbuZlm\">这叫作 use-after-free，即释放后使用。</p><p data-pid=\"SfX1pnXL\">C 编译器一般不会强制阻止这种代码通过编译，但其行为是未定义的。</p><p data-pid=\"WzO8Lyyv\">而 Rust 引入了一个极其重要的概念：所有权（Ownership）。</p><p data-pid=\"0DqWPXkw\">例如：</p><div class=\"highlight\"><pre><div class=\"highlight\"><pre><code class=\"language-text\">let a = String::from(&#34;hello&#34;);\n\nlet b = a;\n\nprintln!(&#34;{}&#34;, a);</code></pre></div></pre></div><p data-pid=\"4oH38rS8\">这段 Rust 代码无法通过编译。</p><p data-pid=\"IDdPx5x_\">因为 <div class=\"highlight\"><pre><code class=\"language-text\">a</code></pre></div> 所拥有的字符串资源已经转移给了 <div class=\"highlight\"><pre><code class=\"language-text\">b</code></pre></div>，此后不能继续通过 <div class=\"highlight\"><pre><code class=\"language-text\">a</code></pre></div> 访问。</p><p data-pid=\"NYc1AvRf\">配合借用、生命周期等规则，Rust 编译器能够在编译阶段排除大量悬垂引用、重复释放、数据竞争等问题。</p><p data-pid=\"Mi7DiLYK\">更值得注意的是：</p><p data-pid=\"NaTE8p48\">这些安全检查主要发生在编译阶段，并不意味着程序运行时需要垃圾回收器。</p><p data-pid=\"JtEgCioS\">这正是 Rust 特别有吸引力的地方。</p><h3>三、既然 Rust 更安全，为什么不能完全替代 C？</h3><p data-pid=\"UfX-SJwi\">因为 Rust 为了获得安全性，也付出了代价。</p><p data-pid=\"OcAxmW9t\">例如，Rust 的所有权、借用、生命周期等机制，会让程序员在编写某些底层数据结构时遇到更多约束。</p><p data-pid=\"SlybK7Sw\">有些程序逻辑本来没有问题，但编译器无法证明它是安全的，于是拒绝编译。</p><p data-pid=\"nQI_lDkX\">而 C 语言通常允许程序员直接实现。</p><p data-pid=\"nUGoWFew\">尤其是在操作硬件寄存器、实现内存分配器、编写底层操作系统代码时，Rust 仍然需要使用 <div class=\"highlight\"><pre><code class=\"language-text\">unsafe</code></pre></div>，由程序员承担相应的安全责任。</p><p data-pid=\"BSCbeMRb\">另外，C 还有一些 Rust 难以取代的优势：</p><ul><li data-pid=\"9F2MScai\">语言非常简单：C 的语言机制较少，易于理解机器层面的行为。</li><li data-pid=\"RyyppfSj\">编译工具成熟：几乎所有主流处理器平台都有 C 编译器。</li><li data-pid=\"0X97FOXo\">历史积累巨大：操作系统、嵌入式软件、硬件厂商 SDK、底层库等有大量 C 代码。</li><li data-pid=\"hv-NDk-k\">跨语言接口广泛使用：C ABI 已经成为许多语言相互调用的重要基础。</li></ul><p data-pid=\"OkuY0LSy\">事实上，Linux 内核从 6.1 版本开始引入 Rust 支持，就是一个很有代表性的例子。它并不是把整个 Linux 内核从 C 重写成 Rust，而是逐步支持利用 Rust 开发部分内核组件。</p><h3>四、我觉得 Rust 更像是新时代的 C++，而不仅仅是 C</h3><p data-pid=\"CDHUxALr\">从语言复杂性来看，Rust 其实更接近 C++。</p><p data-pid=\"fE5pBdsI\">因为 C 的一个核心魅力恰恰是简单。</p><p data-pid=\"cgbZfx-S\">而 Rust 引入了泛型、Trait、模式匹配、所有权、生命周期等大量高级语言机制。</p><p data-pid=\"ErvQTm9z\">因此，我们也可以这样理解：</p><p data-pid=\"ZdxCMggw\">C 语言试图提供一套简洁的工具，让程序员直接操作计算机。</p><p data-pid=\"ynf9E-S_\">C++ 试图在底层控制能力之上，提供更丰富的抽象机制。</p><p data-pid=\"h2_SlXid\">Rust 则试图在拥有丰富抽象能力的同时，让编译器建立更加严格的安全约束。</p><p data-pid=\"mdbr3GHK\">这三种语言，实际上代表着不同的工程取舍。</p><h3>五、未来 Rust 会取代 C 吗？</h3><p data-pid=\"YwbpReep\">我的判断是：Rust 很可能在越来越多的新系统软件项目中替代 C 或 C++，但 C 不太可能因此消失。</p><p data-pid=\"V_ktDwRp\">对于大型、复杂、对内存安全要求很高的软件，Rust 的优势十分明显。</p><p data-pid=\"d2Cjnciw\">但对于资源极其受限的微控制器、需要高度可移植的底层接口、成熟的嵌入式项目，以及一些简单直接的系统程序，C 依然有很强的生命力。</p><p data-pid=\"844G1Rk4\">而且，两者最终都可以生成高效的机器码，Rust 的安全性也不意味着它必然比 C 慢。</p><p data-pid=\"vzVl6MwI\">所以我更愿意把 Rust 看作是对 C 语言设计哲学的一次重新思考，而不是简单的升级换代。</p><p data-pid=\"w1vvv7Rt\">C 语言相信程序员，尽量不限制程序员。</p><p data-pid=\"NRSc_ib2\">Rust 则认为，编译器应该帮助程序员承担更多正确性检查工作。</p><p data-pid=\"AOgk4MSW\">这背后其实是一个很有意思的问题：</p><p data-pid=\"QLXGcyUv\">一门底层编程语言，究竟应该把更多的自由交给程序员，还是把更多的安全责任交给编译器？</p><p data-pid=\"dJa236Or\">这可能才是 C 与 Rust 最本质的区别。</p>",
+    "thumbnail_info": {
+     "count": 0,
+     "thumbnails": [],
+     "type": "thumbnail_info",
+     "total_count": 0
+    },
+    "relationship": {
+     "voting": 0,
+     "is_author": false,
+     "is_thanked": false,
+     "is_nothelp": false,
+     "following_upvoter": [],
+     "following_upvoter_count": 0,
+     "following_collect": [],
+     "following_collect_count": 0,
+     "high_level_creator": [],
+     "high_level_creator_count": 0,
+     "is_following": false
+    },
+    "question": {
+     "id": "496992250",
+     "type": "question",
+     "name": "<em>Rust</em>是不是就相当于新时代的C语言？",
+     "url": "https://api.zhihu.com/questions/496992250",
+     "answer_count": 0,
+     "follow_count": 0,
+     "attached_info_bytes": ""
+    },
+    "author": {
+     "id": "0608a7bd39b4a4e1ad713741c877fb8a",
+     "url_token": "kexueyuanli",
+     "name": "王珂",
+     "headline": "",
+     "gender": 1,
+     "is_followed": false,
+     "is_following": false,
+     "user_type": "people",
+     "url": "https://api.zhihu.com/people/0608a7bd39b4a4e1ad713741c877fb8a",
+     "type": "people",
+     "avatar_url": "https://pic1.zhimg.com/50/v2-347faa86773a8d72d002a5a8eaf35d2c_l.jpg?source=4e949a73",
+     "badge": [],
+     "authority_info": null,
+     "voteup_count": 8564,
+     "follower_count": 2324,
+     "badge_v2": {
+      "title": "",
+      "merged_badges": [],
+      "detail_badges": [],
+      "icon": "",
+      "night_icon": ""
+     },
+     "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+     "topic_bayes_map": null,
+     "topic_map": {},
+     "verify_bayes": ""
+    },
+    "is_anonymous": false,
+    "is_zhi_plus": false,
+    "is_zhi_plus_content": false,
+    "extra": "",
+    "health_tag": "",
+    "answer_type": "normal",
+    "sub_content_type": "",
+    "settings": {
+     "table_of_contents": {
+      "enabled": false
+     }
+    },
+    "attached_info_bytes": "OogCCgtwbGFjZWhvbGRlchIgMDc2MmI5ODMwNjI3MWI1NjFiOWZhMTJlNzIzYjAyNDgYBCIJODAxNjE4MTAzKhMyMDk0ODUzNjY5MTgzNDAzMTQ4Mgg3MjcyNDA2NzoJNDk2OTkyMjUwSgRydXN0UABYAWABagRydXN0cASAAeTj7uaJ0JcDmAEAoAECqAEAsAEBuAEA0AHjlM3WBtgBH+ABAoACAbgCAOICBU5vSW1nigMAkgMBMJoDAKIDAKoDAMIDDHpzZWFyY2hfcm9vdJgEAN0EAAAAAOAEAPoEAIIFIDA3NjJiOTgzMDYyNzFiNTYxYjlmYTEyZTcyM2IwMjQ4igUG5YW25LuW",
+    "biz_encoded_params": "sw%3Drust",
+    "answer_count": 113,
+    "visits_count": 848914,
+    "description": "<p>感觉当前Rust的应用场景主要在各种东西的底层，发挥高性能和安全性的优势，没见过用Rust做大型项目的（刚学一点点Rust，差点没脑溢血，回想起了很久以前第一次接触编程的时候）</p><p>话说用Rust重写一个Linux内核会不会是一个挺有意义的工程？</p>",
+    "title": "Rust是不是就相当于新时代的C语言？",
+    "native": 0
+   },
+   "hit_labels": null,
+   "index": 2,
+   "answers": {
+    "data": [
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://picx.zhimg.com/v2-4ce28373c7585ae4e1ba689371192419_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://picx.zhimg.com/v2-4ce28373c7585ae4e1ba689371192419.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": 1,
+       "headline": "C#/C++/ACGN爱好者",
+       "id": "5a78e625de71c2fd990b1c733e0656fd",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": false,
+       "name": "萧叶轩",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/5a78e625de71c2fd990b1c733e0656fd",
+       "url_token": "xiao-xie-xuan",
+       "user_type": "people"
+      },
+      "comment_count": 27,
+      "content": "<p data-pid=\"y09E3eqi\">不是，除非Rust能自己提供能让其他语言直接调用它的ABI，不然它就永远不能替代C。</p><p data-pid=\"sPg9kgMI\">有些人可能没理解我说的意思，Rust用C ABI，那么它对外使用的语言特性也是和C兼容的语言特性，而不能使用自己的语言特性，称不上自己的ABI。</p>",
+      "content_need_truncated": false,
+      "created_time": 1715446365,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "3495442713",
+      "is_collapsed": false,
+      "is_copyable": true,
+      "is_jump_native": false,
+      "question": {
+       "created": 1636169189,
+       "id": "496992250",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "Rust是不是就相当于新时代的C语言？",
+       "type": "question",
+       "updated_time": 1636169189,
+       "url": "https://www.zhihu.com/api/v4/questions/496992250"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1715559904,
+      "url": "https://www.zhihu.com/api/v4/answers/3495442713",
+      "voteup_count": 61
+     },
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://pica.zhimg.com/v2-c34d95c2a32fab8792444b172fbe0643_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://picx.zhimg.com/v2-c34d95c2a32fab8792444b172fbe0643.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": -1,
+       "headline": "每天看什么，想什么，就会被什么束缚住",
+       "id": "7a90891155da464c7532cccb53f1de89",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": false,
+       "name": "扶余城里小老二",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/7a90891155da464c7532cccb53f1de89",
+       "url_token": "fu-yu-cheng-li-xiao-lao-er",
+       "user_type": "people"
+      },
+      "comment_count": 11,
+      "content": "<p data-pid=\"1fFXfKU5\">rust2018 那本书，我看了23天。终于看完了。设计理念非常好，编译器告诉你，各种错误。跟cpp恰恰相反。默认是const。所有的变量都有生命期的挂靠定义。是为网络多线程而生的编程语言。通过学rust，我对cpp的理解提升了一个档次。果然竞品就是一面镜子。</p><p data-pid=\"a3EX-ngG\">  唯一缺点就是巨型功能库太少。比较适合cpp和rust联合编程。就是利用c的ffi，相互调用就很好。当然通过tcpip的方式比较完美。</p><p data-pid=\"RZxPU8MI\">  不过自从cpp20标准已经落地之后，摸rust的时间少了。</p>",
+      "content_need_truncated": false,
+      "created_time": 1636890460,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "2223291796",
+      "is_collapsed": false,
+      "is_copyable": true,
+      "is_jump_native": false,
+      "question": {
+       "created": 1636169189,
+       "id": "496992250",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "Rust是不是就相当于新时代的C语言？",
+       "type": "question",
+       "updated_time": 1636169189,
+       "url": "https://www.zhihu.com/api/v4/questions/496992250"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1636890460,
+      "url": "https://www.zhihu.com/api/v4/answers/2223291796",
+      "voteup_count": 152
+     },
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://picx.zhimg.com/2b5d9a662f524abc34072e9a30f7aa21_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://pica.zhimg.com/2b5d9a662f524abc34072e9a30f7aa21.jpg?source=1def8aca",
+       "badge": [
+        {
+         "description": "优秀答主",
+         "topics": [],
+         "type": "best_answerer"
+        }
+       ],
+       "badge_v2": {
+        "detail_badges": [
+         {
+          "description": "函数式编程话题下的优秀答主",
+          "detail_type": "best_answerer",
+          "icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "sources": [
+           {
+            "avatar_path": "44e47e6d7",
+            "avatar_url": "https://pic1.zhimg.com/44e47e6d7_720w.jpg?source=32738c0c",
+            "description": "",
+            "id": "19585411",
+            "name": "函数式编程",
+            "priority": 0,
+            "token": "19585411",
+            "type": "topic",
+            "url": "https://www.zhihu.com/topic/19585411"
+           }
+          ],
+          "title": "优秀答主",
+          "type": "best",
+          "url": "https://www.zhihu.com/question/48509984"
+         }
+        ],
+        "icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+        "merged_badges": [
+         {
+          "description": "函数式编程话题下的优秀答主",
+          "detail_type": "best",
+          "icon": "",
+          "night_icon": "",
+          "sources": [
+           {
+            "avatar_path": "44e47e6d7",
+            "avatar_url": "https://pic1.zhimg.com/44e47e6d7_720w.jpg?source=32738c0c",
+            "description": "",
+            "id": "19585411",
+            "name": "函数式编程",
+            "priority": 0,
+            "token": "19585411",
+            "type": "topic",
+            "url": "https://www.zhihu.com/topic/19585411"
+           }
+          ],
+          "title": "优秀答主",
+          "type": "best",
+          "url": "https://www.zhihu.com/question/48509984"
+         }
+        ],
+        "night_icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+        "title": "函数式编程话题下的优秀答主"
+       },
+       "gender": 1,
+       "headline": "世间万物，一阴一阳，天下至理，莫非阴阳。",
+       "id": "0a308ec0bd0ce92754be4e85db62a29a",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": false,
+       "name": "parker liu",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/0a308ec0bd0ce92754be4e85db62a29a",
+       "url_token": "parker-liu",
+       "user_type": "people"
+      },
+      "comment_count": 36,
+      "content": "<p data-pid=\"Wp-Gu1Gm\">Rust语言是不错，但其并不是新时代的C语言。新时代的C语言将是Zig语言。</p><p data-pid=\"xc4N32qL\">我们先来看看C语言是怎么样的。C是70年代初发明出来的，那时候的计算机资源都很有限，内存少。因此C语言的抽象层次比较低，语言特性比较少，是在硬件基础上的一个比较薄的抽象层，简单直接，写的代码可以和汇编代码大致对应起来（当然现代编译器的极致优化下，生成的汇编代码和源代码的对应关系就没那么直观了）。这样，C编译器实现起来可以比较简单，消耗的资源也少，君不见C标准库里的很多古老的函数，比如memcpy, memset, strlen, strcpy这些函数都是6个字符以下的（这样可以使用pdp11的36位整数来做符号的比较）。所有这些造就了C语言的基因是语法简单，语法噪音少，语义清晰明了，语言特性少，灵活且自由，和汇编语言有直接的对应，没有隐式操作，手动显式操作多。这使得C语言使用起来简单，在有一定的计算机基础的情况下上手快，语言的思维负担小。但是，因为其特性少，手动操作多，比如内存管理，接口实现，对象封装等，在做一个实用的软件项目时需要写的基础组件多，很多时候有不少重复的工作。最终所有这些，使得C语言极其稳定，50年来语言改动较少，这是很难得的。</p><p data-pid=\"h-ph5Mvy\">随着现代编程语言理论和实践的发展，以及硬件的快速发展，计算机的整体环境已经和50年前很不相同了。可以使用的内存是几个数量级的增长，CPU的运算速度也有了几个数量级的提升，这使得编译器可以做的更复杂些，可以支撑起更复杂的类型系统，支持类型推导，支持更多的语言特性，做更多的编译期检查，以及编译期计算。</p><p data-pid=\"qSgLdC2v\">C语言因为天时、地利、人和，顺应时势，迅速占领了操作系统和底层系统软件开发领域，又因为C语言的抽象层薄，几乎没有运行时，能够精确和精细的操作硬件，使用起来简单直接，语言的定位合适。所以C语言有了极强的生命力，50年来还没有任何其他编程语言可以撼动其地位。</p><p data-pid=\"RemGltW7\">但是，毕竟50年的时间过去了，这个世界已经变化很大了，C语言诞生时的时代局限性有不少现在已经不存在了。这些局限性有些是编程语言理论上的，有些是硬件上的制约，有些是当时的一些习惯。C语言作为现代计算机软件系统的基石，需要保持稳定和兼容，因此C语言本身的演进是很缓慢的，现在的C语言依然带着当时的时代局限性。这些局限性阻碍了C语言的发展，也使得其在现代的软件开发中显得老旧了，空指针问题，弱类型导致的数值计算错误和数据类型不匹配问题，数组越界问题，C宏容易出错和不好调试，没有interface，没有泛型，没有代数数据类型直接的支持，没有好的表达式值语义，没有在语言层面支持异步并发，没有好的SIMD并行计算的支持（只能使用难用的intrinsic function），等等这些问题。</p><p data-pid=\"xjTtLKqo\">这些问题在新发展出来的编程语言中大部分都已经很好的解决了。比如Haskell、Scalar、swift、rust等这些话语言。但是大部分这些新的语言都有极其厚重的运行时，而且有的还有GC，和C语言的定位是不一样的，无法应对C语言适用的所有场景。</p><p data-pid=\"7e2lwpv9\">这些新语言中，Rust是一个备受瞩目的热门的新兴语言，因为其没有GC，性能也很好，是非常不错的系统级编程语言。有不少人觉得其可以用来替代C语言，所以有了这个问题。</p><p data-pid=\"vY7JHiv0\">Rust最初是用来开发高性能的浏览器核心的，后来因为其性能高，内存消耗低，安全性高，有很多现代编程语言具有的新特性，还有部分函数式编程的能力。于是其应用领域逐渐扩大，在系统级软件编程、数据库、网络组件、嵌入式系统、基于WASM的网页前端应用等领域都有应用。</p><p data-pid=\"tqf6GncX\">但是，Rust支持了较多的语言特性，其抽象层是比较厚的，虽然号称是零成本抽象，但其实细究下来，还是有一定的性能损失的。请看下面这篇文章：</p><p data-pid=\"sHNuOQZN\"><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/eYWwBS979K6xFWOPM5DX-w\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Rust 解码 Protobuf 数据比 Go 慢五倍？记一次性能调优之旅</a></p><p data-pid=\"CCWkbRWC\">另外，Rust的安全是通过类型系统来保证的，其使用的是affine type system，通过所有权和借用的机制，支持move语义，达到安全的使用内存和资源的效果，与linear type system类似（不同的是参数最多使用一次）。使用这种方式来保障安全的一个问题是这个类型系统不够聪明，有不少场景是难以处理的，需要精心设计程序，绕几个弯，和编译器搏斗个几个回合，有时候还不如直接使用C语言那种不安全的方式更自由和直接。很多和底层及硬件交互的场景还需要使用Rust的unsafe模式才可以完成。</p><p data-pid=\"3c-L9jLB\">在嵌入式系统领域，基于Linux的嵌入式系统使用Rust没有问题。但是那些使用RTOS的嵌入式系统，甚至是裸机系统，Rust用起来就没有C语言那么好用了。首先，Rust的std下的标准库都不能使用了，只能使用Rust的core部分的库。这就导致那些使用了std下的标准库的包都不能使用，这带来了使用上的极大不方便。需要重写很多针对no_std实现的类似功能的库。另外内存分配方面也有同样的问题，需要使用支持no_std模式的内存分配的库。然后，更重要的是，现在的带有RTOS的嵌入式系统已经很复杂了，对应用层提供了一个统一的HAL层，这些代码都是使用C来实现的，几乎没有芯片原厂使用Rust来做这些事情。也就意味着Rust要么使用这些原厂提供的C语言写的HAL层，要么有人写一个Rust实现的HAL层，这方面有<a href=\"https://link.zhihu.com/?target=https%3A//github.com/rust-embedded/embedded-hal\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">embedded-hal</a>这个项目。但这个项目还不够成熟，拿来做产品的话风险比较大。所以和C语言比起来，在基于RTOS的嵌入式系统中，Rust并没有C那么好用。</p><p data-pid=\"2WzCgpJz\">一般来说，一个新的编程语言要取代旧的编程语言，最好的方式就是新生的编程语言要能很好的和旧的编程语言兼容和交互，能够平滑和无缝的调用旧语言的函数和数据类型。这方面Rust做的并不够好，不能象C++和objective-c那样直接调用C函数，使用C语言中的数据类型，函数可以直接被C语言中的代码调用。Rust是使用了FFI这种高成本的方式来调用C语言的函数，以及让C语言的代码调用Rust中的函数，而且不能直接使用C语言中的数据类型。这就导致和C语言相互调用时需要编写额外的FFI的绑定代码，虽然可以使用工具来自动生成这些FFI的绑定代码。但是其一增加了构建过程的复杂性，维护更麻烦，FFI的绑定代码有一定的性能损耗，其二是阻挡了跨语言调用的全局代码优化，即Rust的代码在调用了C函数后不能和C函数的代码一起做全局优化。</p><p data-pid=\"3UL-FNuu\">所以，Rust无法替代C语言，不是新时代的C语言。</p><p data-pid=\"PGEyh36t\">而Zig语言，是从2016年发展起来的新兴编程语言，具有和C语言一样的抽象层薄，语法简单，语法噪音少，语义清晰明了，语言特性少，灵活且自由，和汇编语言有直接的对应，没有隐式操作，手动显式操作多的特点，同时运行时非常小，可以直接用在裸机系统上。Zig语言还有这些现代语言的特性：泛型、编译期计算(comptime)、ADT、类型推导、强类型检查、元编程、类型是一等公民等。另外Zig语言还有如下独特的特性：方便的交叉编译、和语言一体的构建系统、多种内存分配器可组合的灵活使用、对Simd的友好支持等。最后，Zig语言内置了C语言的语法前端，可以将C的源代码转换为Zig代码及Zig的AST。这使得Zig语言可以象C++和objective-c那样平滑且无缝的和C语言相互调用，另外可以直接使用C语言的数据类型和结构体、联合体等，调用C函数后可以和C函数的代码一起做全局代码优化。</p><p data-pid=\"_QWaCm_f\">具体可以看我对Zig语言的评价：</p><p data-pid=\"hwieNMc5\"><a href=\"https://www.zhihu.com/question/50121841/answer/3423451856\" class=\"internal\" target=\"_blank\">如何评价 The Zig Programming Language？</a></p><p data-pid=\"zsB8DLZf\">以及Zig语言对SIMD并行计算优化的友好支持：</p><p data-pid=\"88pjznTu\"><a href=\"https://zhuanlan.zhihu.com/p/687938028\" class=\"internal\" target=\"_blank\">parker liu：Zig语言的SIMD并行计算优化初探</a></p><p data-pid=\"BN6lZwL9\">所以，Zig是完全可以替代C语言的，将是新时代的C语言。</p>",
+      "content_need_truncated": false,
+      "created_time": 1713589848,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "3472473878",
+      "is_collapsed": false,
+      "is_copyable": true,
+      "is_jump_native": false,
+      "question": {
+       "created": 1636169189,
+       "id": "496992250",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "Rust是不是就相当于新时代的C语言？",
+       "type": "question",
+       "updated_time": 1636169189,
+       "url": "https://www.zhihu.com/api/v4/questions/496992250"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1713594873,
+      "url": "https://www.zhihu.com/api/v4/answers/3472473878",
+      "voteup_count": 226
+     }
+    ],
+    "paging": {
+     "is_end": false,
+     "is_start": true,
+     "next": "https://www.zhihu.com/api/v4/questions/496992250/answers?include=data%5B%2A%5D.content%2Cvoteup_count%2Ccomment_count%2Ccreated_time%2Cupdated_time%2Cauthor&limit=3&offset=3&sort_by=default",
+     "previous": "https://www.zhihu.com/api/v4/questions/496992250/answers?include=data%5B%2A%5D.content%2Cvoteup_count%2Ccomment_count%2Ccreated_time%2Cupdated_time%2Cauthor&limit=3&offset=0&sort_by=default",
+     "totals": 113
+    },
+    "read_count": 0
+   }
+  }
+ ],
+ "hit_labels": null,
+ "related_search_result": [],
+ "search_action_info": {
+  "attached_info_bytes": "OoUBEiAwNzYyYjk4MzA2MjcxYjU2MWI5ZmExMmU3MjNiMDI0OEoEcnVzdFAAWAFgAWoEcnVzdHAEgAHk4+7midCXA4ACAbgCAIoDAJIDATCaAwCiAwDgBAD6BACCBSAwNzYyYjk4MzA2MjcxYjU2MWI5ZmExMmU3MjNiMDI0OIoFBuWFtuS7lg==",
+  "lc_idx": 3,
+  "search_hash_id": "0762b98306271b561b9fa12e723b0248",
+  "isfeed": false
+ },
+ "is_brand_word": false,
+ "pendant": null,
+ "sensitive_level": -1,
+ "warning": "",
+ "filter_items": null,
+ "ab_params": "dm_ai_product=0;dm_ai_corner_emb=0;dm_question_limit=2;sb_cardfilter=1;dm_pre_docs=2;dm_search_pregen=1;dm_router_rewrite=0;dm_ai_rerank=3;dm_center_feature=1;dm_hot_pin=1;dm_ai_corner1=1;dm_ai_hot_more=0;dm_v_member_zag=2;dm_a1_abc=0;dm_ai_search_safe=1;dm_rum_v5=1;dm_hotvideo=1;dm_paid_recency=0;dm_ai_prompt=4;adflow=0;sb_koc_dht=0;dm_l3_multi3=1;dm_pin_card=1;dm_chat_persona=0;dm_ai_card_cache=0;dm_test=1;sb_novel_member=1;sb_newreb=1;dm_recency_ab_tes=0;dm_query_rewrite=2;dm_social_boost=3;dm_ai_hot_recall=0;dm_l3_ple_exp=0;sb_kvip_xz=1;dm_content_quota=3;dm_vote_score=0;dm_a1_suppress=0;dm_ai_search_kl=1;sb_caowei_4in10=1;sb_story_ca=1;sb_new_guess=1;sb_storytag=1;dm_pu_sug=0;dm_member_py=1;sb_vip_xunzhi=1;sb_eduzhi=1;sb_zhiedu=1;sb_nvip_ecpm=1;dm_aicard_mutex=1;dm_l2_ab=1;sb_cr=1;sb_sku_rel=1;bt_vertical_mem=1;bt_holdback_2025=0;dm_realtime=5;dm_l2_snp=1;dm_isocial=6;sb_sku_kzh=1;sb_vip_tag=1;dm_zr_sv=1;dm_preset_opt=1;dm_ai_medical=1;sb_ecpmctcvr=1;sb_vipslot=0;sb_slot_time=2;sb_zhiad=1;d_new_search_h2=0;dm_ks_memory=1;sb_fea_0914=0;se_koc_list_box=1;sb_sku_time=1;sb_ff=1;dm_recency_ab=0;dm_fine_rel=2;sb_k_domain=0;sb_slot_domain=2;sb_sku_ui=1;dm_correct=0;dm_AI_hot_recall=0;dm_mark=2;dm_user_follower=1;dm_l3_rel_ab=0;sb_storyai=2;bt_member_verify=1;dm_ai_zhiplus=1;dm_ai_model=7;dm_security=1;dm_tag_t5gemma=0;dm_l1_rel=1;dm_med_koc=1;sb_xg_search=1;sb_domain_2025=0;sb_pe=1;dm_rec_persona=0;dm_s_aiclarify=0",
+ "item_in_view": [
+  {
+   "type": "user_survey",
+   "index": 5,
+   "token": "f789e8e4867b476c8406c1420e4e05f4"
+  },
+  {
+   "type": "ask_question",
+   "index": 9
+  }
+ ],
+ "domain_info": {
+  "first_category": "互联网"
+ },
+ "is_koc_words": false,
+ "strategy_res_list": [
+  "ac_ai_card",
+  "dm_ai_class_10"
+ ]
+}

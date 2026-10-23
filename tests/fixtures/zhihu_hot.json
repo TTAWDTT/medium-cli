@@ -1,0 +1,701 @@
+{
+ "data": [
+  {
+   "question": {
+    "url": "https://www.zhihu.com/question/2096067176604111062",
+    "created": 1792521357,
+    "updated_time": 1792715959,
+    "title": "如何看待2026年10月土耳其与中国的网民爆发的大规模互怼？",
+    "highlight_title": "",
+    "type": "question",
+    "id": "2096067176604111062",
+    "token": "2096067176604111062",
+    "is_recent_hot": false,
+    "have_answer": false,
+    "question_answer_url": "",
+    "topics": [
+     {
+      "url_token": "19551184",
+      "name": "Twitter"
+     },
+     {
+      "url_token": "19554074",
+      "name": "价值观"
+     },
+     {
+      "url_token": "19557498",
+      "name": "民族"
+     }
+    ],
+    "label": "",
+    "creator": {
+     "url_token": "",
+     "name": ""
+    },
+    "question_source": ""
+   },
+   "reaction": {
+    "new_pv": 322306,
+    "new_pv_7_days": 0,
+    "new_follow_num": 49,
+    "new_follow_num_7_days": 0,
+    "new_answer_num": 52,
+    "new_answer_num_7_days": 0,
+    "new_upvote_num": 13472,
+    "new_upvote_num_7_days": 0,
+    "pv": 38213409,
+    "follow_num": 5037,
+    "answer_num": 1750,
+    "upvote_num": 380246,
+    "pv_incr_rate": "0.00%",
+    "head_percent": "0.00%",
+    "new_pv_yesterday": 322306,
+    "new_pv_t_yesterday": 322306,
+    "score": 5,
+    "score_level": 2.5,
+    "text": ""
+   },
+   "answers": {
+    "data": [
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://picx.zhimg.com/v2-755e82573e3dad1117bf508e451bf22d_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://pic1.zhimg.com/v2-755e82573e3dad1117bf508e451bf22d.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": 0,
+       "headline": "AI真是害苦了我啊",
+       "id": "75fe4cf3a7ab7c09f5011a4e82aeecb0",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": false,
+       "name": "M3小蘑菇",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/75fe4cf3a7ab7c09f5011a4e82aeecb0",
+       "url_token": "m3xiao-mo-gu",
+       "user_type": "people"
+      },
+      "comment_count": 21,
+      "content": "<p data-pid=\"pAAfA8KH\">奇怪，为啥土耳其人不反思？</p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/50/v2-4dc7bccacc4fdc71763a4ddc2565662d_720w.jpg?source=1def8aca\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"300\" data-original-token=\"v2-4dc7bccacc4fdc71763a4ddc2565662d\" class=\"content_image\" width=\"300\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;300&#39; height=&#39;300&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"300\" data-original-token=\"v2-4dc7bccacc4fdc71763a4ddc2565662d\" class=\"content_image lazy\" width=\"300\" data-actualsrc=\"https://picx.zhimg.com/50/v2-4dc7bccacc4fdc71763a4ddc2565662d_720w.jpg?source=1def8aca\"/></figure><p></p>",
+      "content_need_truncated": false,
+      "created_time": 1792576790,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "2096299678669321539",
+      "is_collapsed": false,
+      "is_copyable": false,
+      "is_jump_native": false,
+      "question": {
+       "created": 1792521357,
+       "id": "2096067176604111062",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "如何看待2026年10月土耳其与中国的网民爆发的大规模互怼？",
+       "type": "question",
+       "updated_time": 1792715959,
+       "url": "https://www.zhihu.com/api/v4/questions/2096067176604111062"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1792576804,
+      "url": "https://www.zhihu.com/api/v4/answers/2096299678669321539",
+      "voteup_count": 3048
+     },
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://pica.zhimg.com/v2-fa82c76e4925a596c6594c463826b91d_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://picx.zhimg.com/v2-fa82c76e4925a596c6594c463826b91d.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": 1,
+       "headline": "PM",
+       "id": "66b63fa2294384931f28c37ed8e0b9b4",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": true,
+       "name": "噗呲噗呲",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/66b63fa2294384931f28c37ed8e0b9b4",
+       "url_token": "li-xx-34-62",
+       "user_type": "people"
+      },
+      "comment_count": 46,
+      "content": "<p data-pid=\"M74cp8N3\">他们觉得匈奴是他们祖先，突厥是他们祖先，蒙古是他们祖先。 甚至觉得长城是为了防止土耳其的。</p><p data-pid=\"3T87g1yY\">我直接问长城在中国境内，你们的意思是中国人把你们祖先从蒙古赶到希腊了吗？</p>",
+      "content_need_truncated": false,
+      "created_time": 1792576733,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "2096299439577109963",
+      "is_collapsed": false,
+      "is_copyable": false,
+      "is_jump_native": false,
+      "question": {
+       "created": 1792521357,
+       "id": "2096067176604111062",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "如何看待2026年10月土耳其与中国的网民爆发的大规模互怼？",
+       "type": "question",
+       "updated_time": 1792715959,
+       "url": "https://www.zhihu.com/api/v4/questions/2096067176604111062"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1792576733,
+      "url": "https://www.zhihu.com/api/v4/answers/2096299439577109963",
+      "voteup_count": 2540
+     },
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://picx.zhimg.com/v2-e5aeb4872c80f1b3edccc46617dfe3de_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://picx.zhimg.com/v2-e5aeb4872c80f1b3edccc46617dfe3de.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": 0,
+       "headline": "玩超级马里奥，蘑菇乌龟都踩爆！",
+       "id": "e68be5ec8e2a18dc6702409ca7cba07e",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": true,
+       "name": "久世浮倾",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/e68be5ec8e2a18dc6702409ca7cba07e",
+       "url_token": "36-81-90-27",
+       "user_type": "people"
+      },
+      "comment_count": 50,
+      "content": "<p data-pid=\"H9z8vuSX\">团结人大战团结人，我看挺热闹。</p>",
+      "content_need_truncated": false,
+      "created_time": 1792575345,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "2096293617514049784",
+      "is_collapsed": false,
+      "is_copyable": true,
+      "is_jump_native": false,
+      "question": {
+       "created": 1792521357,
+       "id": "2096067176604111062",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "如何看待2026年10月土耳其与中国的网民爆发的大规模互怼？",
+       "type": "question",
+       "updated_time": 1792715959,
+       "url": "https://www.zhihu.com/api/v4/questions/2096067176604111062"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1792575345,
+      "url": "https://www.zhihu.com/api/v4/answers/2096293617514049784",
+      "voteup_count": 1153
+     }
+    ],
+    "paging": {
+     "is_end": false,
+     "is_start": true,
+     "next": "https://www.zhihu.com/api/v4/questions/2096067176604111062/answers?include=data%5B%2A%5D.content%2Cvoteup_count%2Ccomment_count%2Ccreated_time%2Cupdated_time%2Cauthor&limit=3&offset=3&sort_by=default",
+     "previous": "https://www.zhihu.com/api/v4/questions/2096067176604111062/answers?include=data%5B%2A%5D.content%2Cvoteup_count%2Ccomment_count%2Ccreated_time%2Cupdated_time%2Cauthor&limit=3&offset=0&sort_by=default",
+     "totals": 1750
+    },
+    "read_count": 0
+   }
+  },
+  {
+   "question": {
+    "url": "https://www.zhihu.com/question/2096358861804511510",
+    "created": 1792590901,
+    "updated_time": 1792676114,
+    "title": "为什么我国在黄海要进行持续 47 天的实弹射击？释放了哪些信号？",
+    "highlight_title": "",
+    "type": "question",
+    "id": "2096358861804511510",
+    "token": "2096358861804511510",
+    "is_recent_hot": false,
+    "have_answer": false,
+    "question_answer_url": "",
+    "topics": [
+     {
+      "url_token": "19553911",
+      "name": "军事"
+     },
+     {
+      "url_token": "19559546",
+      "name": "战争"
+     },
+     {
+      "url_token": "19599117",
+      "name": "军事演习"
+     }
+    ],
+    "label": "",
+    "creator": {
+     "url_token": "",
+     "name": ""
+    },
+    "question_source": ""
+   },
+   "reaction": {
+    "new_pv": 152944,
+    "new_pv_7_days": 0,
+    "new_follow_num": 56,
+    "new_follow_num_7_days": 0,
+    "new_answer_num": 32,
+    "new_answer_num_7_days": 0,
+    "new_upvote_num": 1735,
+    "new_upvote_num_7_days": 0,
+    "pv": 5877073,
+    "follow_num": 1604,
+    "answer_num": 497,
+    "upvote_num": 26242,
+    "pv_incr_rate": "0.00%",
+    "head_percent": "0.00%",
+    "new_pv_yesterday": 152944,
+    "new_pv_t_yesterday": 152944,
+    "score": 8.593605882352941,
+    "score_level": 4.5,
+    "text": ""
+   },
+   "answers": {
+    "data": [
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://picx.zhimg.com/v2-2555dbc48c770cd11e934ec779141814_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://picx.zhimg.com/v2-2555dbc48c770cd11e934ec779141814.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": 1,
+       "headline": "半个军迷！",
+       "id": "f8e3370a987c1e53a4eab1b427bc624a",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": false,
+       "name": "明月夜.无言",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/f8e3370a987c1e53a4eab1b427bc624a",
+       "url_token": "honey520bb",
+       "user_type": "people"
+      },
+      "comment_count": 101,
+      "content": "<p data-pid=\"656TWXl8\">黄海既是攻击日本本土的最短路线，也是防御日本偷袭的重要屏障。</p><p data-pid=\"LGy_DHV5\">一，目前老中认为时机未到，并不想主动开战（从态势上看防御大于进攻）。</p><p data-pid=\"midPPKwL\">二，要提醒美日，如果忍耐不住，尽快放马过来。开战，我准备好了，随时恭候。</p><p data-pid=\"qji1vIPL\">三，但是一旦开战，不会仅仅局限在琉球诸岛，而是直接攻击日本本土。</p><p data-pid=\"PydehbuK\">四，至于四海联动，也就说，我们做好了废掉美帝第一岛链的战略准备。</p>",
+      "content_need_truncated": false,
+      "created_time": 1792656697,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "2096634831014831391",
+      "is_collapsed": false,
+      "is_copyable": true,
+      "is_jump_native": false,
+      "question": {
+       "created": 1792590901,
+       "id": "2096358861804511510",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "为什么我国在黄海要进行持续 47 天的实弹射击？释放了哪些信号？",
+       "type": "question",
+       "updated_time": 1792676114,
+       "url": "https://www.zhihu.com/api/v4/questions/2096358861804511510"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1792656697,
+      "url": "https://www.zhihu.com/api/v4/answers/2096634831014831391",
+      "voteup_count": 1074
+     },
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://picx.zhimg.com/v2-ef53c05ed251a2ec9b294a223f2911c0_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://pica.zhimg.com/v2-ef53c05ed251a2ec9b294a223f2911c0.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": -1,
+       "headline": "",
+       "id": "b10b46602adc29de5d682a8277d7512f",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": false,
+       "name": "一颗糖",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/b10b46602adc29de5d682a8277d7512f",
+       "url_token": "yi-ke-tang-80-86",
+       "user_type": "people"
+      },
+      "comment_count": 74,
+      "content": "<p data-pid=\"WwCdGZNg\">因为六国军演围过来了。我们还占了他们的 C 位。让阿丑没地方站。我看见 B 站的说的。</p>",
+      "content_need_truncated": false,
+      "created_time": 1792674849,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "2096710966557914726",
+      "is_collapsed": false,
+      "is_copyable": false,
+      "is_jump_native": false,
+      "question": {
+       "created": 1792590901,
+       "id": "2096358861804511510",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "为什么我国在黄海要进行持续 47 天的实弹射击？释放了哪些信号？",
+       "type": "question",
+       "updated_time": 1792676114,
+       "url": "https://www.zhihu.com/api/v4/questions/2096358861804511510"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1792674849,
+      "url": "https://www.zhihu.com/api/v4/answers/2096710966557914726",
+      "voteup_count": 483
+     },
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://picx.zhimg.com/v2-54f5804e3eb13e352fc7248e70554615_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://picx.zhimg.com/v2-54f5804e3eb13e352fc7248e70554615.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": -1,
+       "headline": "25年硬件玩家，20年steam用户。什么都玩一点。",
+       "id": "08ef6182141823d0167486e6058cfe45",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": false,
+       "name": "alex",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/08ef6182141823d0167486e6058cfe45",
+       "url_token": "alex-30-14",
+       "user_type": "people"
+      },
+      "comment_count": 2,
+      "content": "<p data-pid=\"JYH-GwPA\">什么演习要47天？明显是在待机嘛。</p>",
+      "content_need_truncated": false,
+      "created_time": 1792661305,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "2096654159009281586",
+      "is_collapsed": false,
+      "is_copyable": true,
+      "is_jump_native": false,
+      "question": {
+       "created": 1792590901,
+       "id": "2096358861804511510",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "为什么我国在黄海要进行持续 47 天的实弹射击？释放了哪些信号？",
+       "type": "question",
+       "updated_time": 1792676114,
+       "url": "https://www.zhihu.com/api/v4/questions/2096358861804511510"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1792661305,
+      "url": "https://www.zhihu.com/api/v4/answers/2096654159009281586",
+      "voteup_count": 222
+     }
+    ],
+    "paging": {
+     "is_end": false,
+     "is_start": true,
+     "next": "https://www.zhihu.com/api/v4/questions/2096358861804511510/answers?include=data%5B%2A%5D.content%2Cvoteup_count%2Ccomment_count%2Ccreated_time%2Cupdated_time%2Cauthor&limit=3&offset=3&sort_by=default",
+     "previous": "https://www.zhihu.com/api/v4/questions/2096358861804511510/answers?include=data%5B%2A%5D.content%2Cvoteup_count%2Ccomment_count%2Ccreated_time%2Cupdated_time%2Cauthor&limit=3&offset=0&sort_by=default",
+     "totals": 497
+    },
+    "read_count": 0
+   }
+  },
+  {
+   "question": {
+    "url": "https://www.zhihu.com/question/2089335688500192096",
+    "created": 1790916446,
+    "updated_time": 1792671441,
+    "title": "香港餐饮业出现倒闭潮，部分餐厅甩锅深圳抢客，你怎么看待？",
+    "highlight_title": "",
+    "type": "question",
+    "id": "2089335688500192096",
+    "token": "2089335688500192096",
+    "is_recent_hot": false,
+    "have_answer": false,
+    "question_answer_url": "",
+    "topics": [
+     {
+      "url_token": "19550842",
+      "name": "香港"
+     },
+     {
+      "url_token": "19552981",
+      "name": "经济"
+     },
+     {
+      "url_token": "19557689",
+      "name": "消费"
+     }
+    ],
+    "label": "",
+    "creator": {
+     "url_token": "",
+     "name": ""
+    },
+    "question_source": ""
+   },
+   "reaction": {
+    "new_pv": 76879,
+    "new_pv_7_days": 0,
+    "new_follow_num": 40,
+    "new_follow_num_7_days": 0,
+    "new_answer_num": 41,
+    "new_answer_num_7_days": 0,
+    "new_upvote_num": 1460,
+    "new_upvote_num_7_days": 0,
+    "pv": 3000101,
+    "follow_num": 1207,
+    "answer_num": 708,
+    "upvote_num": 21013,
+    "pv_incr_rate": "0.00%",
+    "head_percent": "0.00%",
+    "new_pv_yesterday": 76879,
+    "new_pv_t_yesterday": 76879,
+    "score": 8.166711764705882,
+    "score_level": 4.5,
+    "text": ""
+   },
+   "answers": {
+    "data": [
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://picx.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": -1,
+       "headline": "",
+       "id": "cf80a4d944f3670c4e2d3f211e5934b2",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": false,
+       "name": "富有师叔气自华",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/cf80a4d944f3670c4e2d3f211e5934b2",
+       "url_token": "fu-you-shi-shu-qi-zi-hua-92-75",
+       "user_type": "people"
+      },
+      "comment_count": 29,
+      "content": "<p data-pid=\"rsS-lIvE\">餐饮这种行业一般是不可能被隔壁市抢生意的，除非你实在太烂</p>",
+      "content_need_truncated": false,
+      "created_time": 1792650315,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "2096608062928844438",
+      "is_collapsed": false,
+      "is_copyable": true,
+      "is_jump_native": false,
+      "question": {
+       "created": 1790916446,
+       "id": "2089335688500192096",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "香港餐饮业出现倒闭潮，部分餐厅甩锅深圳抢客，你怎么看待？",
+       "type": "question",
+       "updated_time": 1792671441,
+       "url": "https://www.zhihu.com/api/v4/questions/2089335688500192096"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1792650315,
+      "url": "https://www.zhihu.com/api/v4/answers/2096608062928844438",
+      "voteup_count": 1053
+     },
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://picx.zhimg.com/v2-5a981dfa80ec679d664f01294e3481cb_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://pic1.zhimg.com/v2-5a981dfa80ec679d664f01294e3481cb.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": 1,
+       "headline": "假发/国内电商/连续创业者/黄金剩斗士",
+       "id": "6b92036114bf24826f29b69a8c208e2f",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": true,
+       "name": "木棉光年",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/6b92036114bf24826f29b69a8c208e2f",
+       "url_token": "yesheng204",
+       "user_type": "people"
+      },
+      "comment_count": 43,
+      "content": "<p data-pid=\"nEorkyly\">香港澳门的东西奇贵，以至于澳门一男子每天用汽车从大陆拉20份盒饭回去还能盈利，当然，被抓了</p>",
+      "content_need_truncated": false,
+      "created_time": 1792660518,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "2096650860008887389",
+      "is_collapsed": false,
+      "is_copyable": true,
+      "is_jump_native": false,
+      "question": {
+       "created": 1790916446,
+       "id": "2089335688500192096",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "香港餐饮业出现倒闭潮，部分餐厅甩锅深圳抢客，你怎么看待？",
+       "type": "question",
+       "updated_time": 1792671441,
+       "url": "https://www.zhihu.com/api/v4/questions/2089335688500192096"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1792660518,
+      "url": "https://www.zhihu.com/api/v4/answers/2096650860008887389",
+      "voteup_count": 451
+     },
+     {
+      "allow_segment_interaction": 0,
+      "answer_type": "normal",
+      "author": {
+       "avatar_url": "https://picx.zhimg.com/a1c67011a2233400ccad52aa165057de_l.jpg?source=1def8aca",
+       "avatar_url_template": "https://pic1.zhimg.com/a1c67011a2233400ccad52aa165057de.jpg?source=1def8aca",
+       "badge": [],
+       "badge_v2": {
+        "detail_badges": [],
+        "icon": "",
+        "merged_badges": [],
+        "night_icon": "",
+        "title": ""
+       },
+       "gender": -1,
+       "headline": "",
+       "id": "c7a815676b30404bd2e085ba5d363504",
+       "is_advertiser": false,
+       "is_org": false,
+       "is_privacy": false,
+       "name": "魂魄吔梦",
+       "type": "people",
+       "url": "https://www.zhihu.com/api/v4/people/c7a815676b30404bd2e085ba5d363504",
+       "url_token": "hun-po-yao-meng-93",
+       "user_type": "people"
+      },
+      "comment_count": 53,
+      "content": "<p data-pid=\"eolz6tzl\">加底要加钱（加主食）。</p><p data-pid=\"wxcXg7zw\">加柠要加钱（一片3元）。</p><p data-pid=\"MJkcYfmT\">烘底要加钱（把面包烤脆）。</p><p data-pid=\"QhAiEzIH\">拎走要加钱（打包动作），塑料袋要加钱（打包容器），如果拎走时要餐具包也要加钱。</p><p data-pid=\"9-INAwyG\">桌上没餐巾纸，想要得加钱。</p><p data-pid=\"V2rE9rpk\">抱着小孩落座，加一个茶位费。</p><p data-pid=\"p2KhCe1Y\">落座后的花生碟，动了要加钱。</p><p data-pid=\"-7miPCpj\">自带任何食物，要加钱。</p><p data-pid=\"ZqNPw4ek\">坐超过2小时，加钱。</p><p data-pid=\"LL1UM0R5\">加冰要加钱，完全不要冰？对不起，也要加钱。</p><p data-pid=\"jWq2AAoh\">以上加钱，本地和内地顾客都一视同仁，欧美的不一定。</p><figure data-size=\"normal\"><noscript><img src=\"https://pica.zhimg.com/50/v2-406366fd8478bfa6763d3484875b20c0_720w.jpg?source=1def8aca\" data-rawwidth=\"992\" data-rawheight=\"799\" data-size=\"normal\" data-original-token=\"v2-406366fd8478bfa6763d3484875b20c0\" class=\"origin_image zh-lightbox-thumb\" width=\"992\" data-original=\"https://picx.zhimg.com/v2-406366fd8478bfa6763d3484875b20c0_r.jpg?source=1def8aca\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;992&#39; height=&#39;799&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"992\" data-rawheight=\"799\" data-size=\"normal\" data-original-token=\"v2-406366fd8478bfa6763d3484875b20c0\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"992\" data-original=\"https://picx.zhimg.com/v2-406366fd8478bfa6763d3484875b20c0_r.jpg?source=1def8aca\" data-actualsrc=\"https://pica.zhimg.com/50/v2-406366fd8478bfa6763d3484875b20c0_720w.jpg?source=1def8aca\"/></figure><p></p>",
+      "content_need_truncated": false,
+      "created_time": 1792722470,
+      "extras": "",
+      "force_login_when_click_read_more": false,
+      "id": "2096910702107805432",
+      "is_collapsed": false,
+      "is_copyable": true,
+      "is_jump_native": false,
+      "question": {
+       "created": 1790916446,
+       "id": "2089335688500192096",
+       "question_type": "normal",
+       "relationship": null,
+       "title": "香港餐饮业出现倒闭潮，部分餐厅甩锅深圳抢客，你怎么看待？",
+       "type": "question",
+       "updated_time": 1792671441,
+       "url": "https://www.zhihu.com/api/v4/questions/2089335688500192096"
+      },
+      "relationship": {
+       "upvoted_followees": []
+      },
+      "type": "answer",
+      "updated_time": 1792722470,
+      "url": "https://www.zhihu.com/api/v4/answers/2096910702107805432",
+      "voteup_count": 353
+     }
+    ],
+    "paging": {
+     "is_end": false,
+     "is_start": true,
+     "next": "https://www.zhihu.com/api/v4/questions/2089335688500192096/answers?include=data%5B%2A%5D.content%2Cvoteup_count%2Ccomment_count%2Ccreated_time%2Cupdated_time%2Cauthor&limit=3&offset=3&sort_by=default",
+     "previous": "https://www.zhihu.com/api/v4/questions/2089335688500192096/answers?include=data%5B%2A%5D.content%2Cvoteup_count%2Ccomment_count%2Ccreated_time%2Cupdated_time%2Cauthor&limit=3&offset=0&sort_by=default",
+     "totals": 708
+    },
+    "read_count": 0
+   }
+  }
+ ],
+ "paging": {
+  "is_end": false,
+  "is_start": true,
+  "next": "/creators/rank/hot?domain=0&limit=3&offset=3",
+  "previous": "/creators/rank/hot?domain=0&limit=3&offset=0",
+  "totals": 6166
+ }
+}

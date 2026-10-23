@@ -1,0 +1,76 @@
+{
+ "ok": true,
+ "schema_version": "1",
+ "data": {
+  "items": [
+   {
+    "id": "BV1B5JY66E1X",
+    "bvid": "BV1B5JY66E1X",
+    "aid": 117453732451660,
+    "title": "恋はきっと急上升☆",
+    "description": "-",
+    "duration_seconds": 93,
+    "duration": "01:33",
+    "url": "https://www.bilibili.com/video/BV1B5JY66E1X",
+    "owner": {
+     "id": "345731380",
+     "name": "祁言不吃香菜"
+    },
+    "stats": {
+     "view": 1990169,
+     "danmaku": 806,
+     "like": 125953,
+     "coin": 17694,
+     "favorite": 31819,
+     "share": 4865
+    }
+   },
+   {
+    "id": "BV1xrnz6gEVD",
+    "bvid": "BV1xrnz6gEVD",
+    "aid": 117478344627500,
+    "title": "折1万次，会坏吗？iPhone Duo深度评测",
+    "description": "相信各位和我们一样，对苹果的第一台折叠屏手机充满了好奇，这次我们为iPhone Duo准备了一系列特别的测试，甚至专门准备了一台能够把它折叠10000次的设备…我们想和你一起看看，iPhone Duo用起来到底怎么样？如果你喜欢这期节目，请多多支持我们，并把视频分享给你的朋友们一起看看～\n\n制作人员\n监督/SUPERVISOR\nTim 益君\n\n导演/DIRECTOR\nTim 花甲鱼 大橙 Shawn 思凡 Michael 老江 毛毛\n\n制片/PRODUCER\n朵朵 益君 Oscar 土豆泥 前任\n\n摄影/",
+    "duration_seconds": 1492,
+    "duration": "24:52",
+    "url": "https://www.bilibili.com/video/BV1xrnz6gEVD",
+    "owner": {
+     "id": "946974",
+     "name": "影视飓风"
+    },
+    "stats": {
+     "view": 6097205,
+     "danmaku": 74903,
+     "like": 316033,
+     "coin": 162429,
+     "favorite": 62733,
+     "share": 39386
+    }
+   },
+   {
+    "id": "BV16xnm6pE3d",
+    "bvid": "BV16xnm6pE3d",
+    "aid": 117483931441323,
+    "title": "⚡️ 极 限 四 选 一⚡️【bilibili次元干杯】",
+    "description": "感谢点赞！新的四人舞来啦～这次是古早宅舞！（这四人为何表情如此呆滞！根本没有想象中的那种感觉啊喂\n【点赞过5w，加更四人舞蹈～】\n\n往期四人舞：\nBV1QPhw6TE3T\nBV1AFG66UEwi\nBV1HbpRzaEV1\nBV1u2TkzqEwC\nBV16f93Y6EEq\nBV1e7izYhETP\nBV1cwDDYVECm\nBV1cH4y1c7a2\nBV11f421v7ub\nBV1pF4m1M7rv\nBV1eN4y1p7c3",
+    "duration_seconds": 91,
+    "duration": "01:31",
+    "url": "https://www.bilibili.com/video/BV16xnm6pE3d",
+    "owner": {
+     "id": "632887",
+     "name": "伢伢gagako"
+    },
+    "stats": {
+     "view": 232768,
+     "danmaku": 473,
+     "like": 15110,
+     "coin": 1955,
+     "favorite": 12461,
+     "share": 483
+    }
+   }
+  ],
+  "page": 1,
+  "count": 3
+ }
+}

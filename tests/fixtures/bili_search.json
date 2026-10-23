@@ -1,0 +1,30 @@
+{
+ "ok": true,
+ "schema_version": "1",
+ "data": [
+  {
+   "id": "BV1hp4y1k7SV",
+   "bvid": "BV1hp4y1k7SV",
+   "title": "Rust编程语言入门教程（Rust语言/Rust权威指南配套）【已完结】",
+   "author": "软件工艺师",
+   "play": 1720085,
+   "duration": "729:37"
+  },
+  {
+   "id": "BV1p5np69Eq4",
+   "bvid": "BV1p5np69Eq4",
+   "title": "Rust腐蚀-再次大改！蓝图系统重做，开荒变天",
+   "author": "幻想麋鹿",
+   "play": 2416,
+   "duration": "7:56"
+  },
+  {
+   "id": "BV1cEJt6YEBJ",
+   "bvid": "BV1cEJt6YEBJ",
+   "title": "Rust 7月新课 从入门到专家 2.0版本",
+   "author": "开源星球",
+   "play": 6108,
+   "duration": "1521:41"
+  }
+ ]
+}
