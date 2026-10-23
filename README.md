@@ -43,6 +43,16 @@ medium-cli login -p xhs -p weibo      # 需要登录的平台逐个登录（二�
 
 从最新源码安装：`uv tool install git+https://github.com/TTAWDTT/medium-cli`
 
+## Agent 集成（Skill）
+
+自带 agent 版说明书（统一命令面、`--json` 结构、错误恢复、平台要点）。
+
+```bash
+npx skills add TTAWDTT/medium-cli          # skills 生态通用安装（仓库根 SKILL.md）
+```
+
+Claude Code 克隆本仓库后也可直接使用（`.claude/skills/medium-cli/`）。
+
 ## 命令一览
 
 | 命令 | 说明 |
